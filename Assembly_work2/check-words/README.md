@@ -1,4 +1,4 @@
-# Task 3 - Word sorting (25p)
+# Task 3 - Word sorting 
 
 For this task you will have to separate a text into words by some delimiters and then sort these words using the qsort function.
 The sorting will be done first according to the length of the words and in case of equality it will be sorted lexicographically.
