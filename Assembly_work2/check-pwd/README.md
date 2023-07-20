@@ -1,4 +1,4 @@
-# Task 2 - Pwd (25p)
+# Task 2 - Pwd
 
 For this task, a function must be implemented that will receive as parameters a matrix of characters that will contain the names of `n' folders on which the linux cd command is given in the order in which they appear, the number of folders
 (aka number of lines in the matrix) and output that will contain the resulting path.
