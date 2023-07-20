@@ -1,4 +1,4 @@
-# Task 1 - Reversing vowels (25p)
+# Task 1 - Reversing vowels
 
 The purpose of this task is to use only the stack, through push and pop operations,
 to work with memory.
